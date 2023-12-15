@@ -1,7 +1,7 @@
 #春运电脑抢票软件
 #注：本程序可用于购买高铁二等座和硬卧，支持学生票，后续功能有待进一步开发
 #注：已激活
-#本程序不得自行用于商业化，如有需要请告知本人lijiang554@126.com。Copyright Jianghao, LI
+#本程序不得自行用于商业化，如有需要请告知本人jianghaoLi@buaa.edu.cn。Copyright Jianghao, LI
 
 import requests
 import time
